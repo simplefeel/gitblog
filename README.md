@@ -7,11 +7,11 @@ My personal blog using issues and GitHub Action
 - [vscode-gcores开发笔记2](https://github.com/yihong0618/gitblog/issues/111)--2020-02-11
 - [vscode-gcores开发笔记1](https://github.com/yihong0618/gitblog/issues/102)--2020-01-19
 ## 最近更新
+- [眼见何事，情系何处，身在何方，心思何人](https://github.com/yihong0618/gitblog/issues/179)--2020-08-26
 - [程序员跑步指南](https://github.com/yihong0618/gitblog/issues/178)--2020-08-23
 - [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)--2020-08-20
 - [心情不是很好的。](https://github.com/yihong0618/gitblog/issues/176)--2020-08-19
 - [跑步网站做完了，昨天跑了20km, 下一个做什么呢？](https://github.com/yihong0618/gitblog/issues/175)--2020-08-17
-- [自律，悔恨，逝去的日子，成长](https://github.com/yihong0618/gitblog/issues/174)--2020-08-12
 ## 2019
 - [2019最后一天，不是总结的总结](https://github.com/yihong0618/gitblog/issues/97)--2019-12-31
 - [2019年11月总结及12月计划](https://github.com/yihong0618/gitblog/issues/85)--2019-12-02
@@ -189,13 +189,14 @@ My personal blog using issues and GitHub Action
 </details>
 
 ## 生活
+- [眼见何事，情系何处，身在何方，心思何人](https://github.com/yihong0618/gitblog/issues/179)--2020-08-26
 - [迷茫，又一次重新学日语](https://github.com/yihong0618/gitblog/issues/172)--2020-08-04
 - [心态发生了好多转变](https://github.com/yihong0618/gitblog/issues/170)--2020-07-22
 - [既然注定孤独，就孤独吧](https://github.com/yihong0618/gitblog/issues/169)--2020-07-11
 - [累](https://github.com/yihong0618/gitblog/issues/157)--2020-05-16
-- [过日子](https://github.com/yihong0618/gitblog/issues/156)--2020-05-14
 <details><summary>显示更多</summary>
 
+- [过日子](https://github.com/yihong0618/gitblog/issues/156)--2020-05-14
 - [31岁，加法与减法](https://github.com/yihong0618/gitblog/issues/134)--2020-03-15
 - [一下午刷了一遍《恶意》](https://github.com/yihong0618/gitblog/issues/129)--2020-03-08
 - [闭嘴](https://github.com/yihong0618/gitblog/issues/124)--2020-02-27
