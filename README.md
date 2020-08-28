@@ -3,7 +3,7 @@ My personal blog using issues and GitHub Action
 ## TODO
 - [x] 完善 gitblog 的 action 让用户更少更改
 - [x] 给 gitblog 这个增加todo list 功能(这个就是测试）
-- [ ] 给 running page 增加排序
+- [x] 给 running page 增加排序
 - [ ] 完善 runtastic 增加一个参数
 - [ ] 尝试搞定 vscode-leetcode 的cn第三方登陆
 - [ ] 研究自动截图发邮件功能（工作上）
