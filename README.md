@@ -7,11 +7,11 @@ My personal blog using issues and GitHub Action
 - [vscode-gcores开发笔记2](https://github.com/yihong0618/gitblog/issues/111)--2020-02-11
 - [vscode-gcores开发笔记1](https://github.com/yihong0618/gitblog/issues/102)--2020-01-19
 ## 最近更新
+- [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--2020-08-28
 - [眼见何事，情系何处，身在何方，心思何人](https://github.com/yihong0618/gitblog/issues/179)--2020-08-26
 - [程序员跑步指南](https://github.com/yihong0618/gitblog/issues/178)--2020-08-23
 - [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)--2020-08-20
 - [心情不是很好的。](https://github.com/yihong0618/gitblog/issues/176)--2020-08-19
-- [跑步网站做完了，昨天跑了20km, 下一个做什么呢？](https://github.com/yihong0618/gitblog/issues/175)--2020-08-17
 ## 2019
 - [2019最后一天，不是总结的总结](https://github.com/yihong0618/gitblog/issues/97)--2019-12-31
 - [2019年11月总结及12月计划](https://github.com/yihong0618/gitblog/issues/85)--2019-12-02
@@ -56,6 +56,8 @@ My personal blog using issues and GitHub Action
 - [2020就这么来了](https://github.com/yihong0618/gitblog/issues/98)--2020-01-01
 </details>
 
+## TODO
+- [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--2020-08-28
 ## 一些计划
 - [自律，悔恨，逝去的日子，成长](https://github.com/yihong0618/gitblog/issues/174)--2020-08-12
 - [近期程序上的安排](https://github.com/yihong0618/gitblog/issues/168)--2020-07-06
