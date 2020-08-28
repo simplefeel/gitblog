@@ -1,6 +1,15 @@
 ## Gitblog
 My personal blog using issues and GitHub Action
-
+## TODO
+- [ ] 完善 gitblog 的 action 让用户更少更改
+- [ ] 给 gitblog 这个增加todo list 功能(这个就是测试）
+- [ ] 给 running page 增加排序
+- [ ] 完善 runtastic 增加一个参数
+- [ ] 尝试搞定 vscode-leetcode 的cn第三方登陆
+- [ ] 研究自动截图发邮件功能（工作上）
+- [ ] 继续给大连咖啡做贡献
+- [ ] 把 running page 变得更通用(自动生成的js可以用gpx生成)
+- [ ] 搞定 gcores 日历
 ## 置顶文章
 - [程序员跑步指南](https://github.com/yihong0618/gitblog/issues/178)--2020-08-23
 - [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)--2020-08-20
@@ -56,8 +65,6 @@ My personal blog using issues and GitHub Action
 - [2020就这么来了](https://github.com/yihong0618/gitblog/issues/98)--2020-01-01
 </details>
 
-## TODO
-- [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--2020-08-28
 ## 一些计划
 - [自律，悔恨，逝去的日子，成长](https://github.com/yihong0618/gitblog/issues/174)--2020-08-12
 - [近期程序上的安排](https://github.com/yihong0618/gitblog/issues/168)--2020-07-06
