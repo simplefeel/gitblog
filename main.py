@@ -37,7 +37,7 @@ def get_repo(user: Github, repo: str):
 
 def parseTODO(issue):
     body = issue.body.splitlines()
-    return [l for l in body if l.startswith("- [ ] ")]
+    return [l for l in body if l.startswith("- [ ] ") or l.startswith("- [x] ")]
 
 
 def get_top_issues(repo):
