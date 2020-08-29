@@ -1,6 +1,11 @@
 ## Gitblog
 My personal blog using issues and GitHub Action
 ## TODO
+TODO list from [学习生活上的计划](https://github.com/yihong0618/gitblog/issues/181)--3 jobs to do--0 jobs done
+- [ ] 背标日初级下的单词
+- [ ] 月跑量突破250 km
+- [ ] 瘦到130斤
+TODO list from [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--6 jobs to do--3 jobs done
 - [x] 完善 gitblog 的 action 让用户更少更改
 - [x] 给 gitblog 这个增加todo list 功能(这个就是测试）
 - [x] 给 running page 增加排序
@@ -16,11 +21,11 @@ My personal blog using issues and GitHub Action
 - [vscode-gcores开发笔记2](https://github.com/yihong0618/gitblog/issues/111)--2020-02-11
 - [vscode-gcores开发笔记1](https://github.com/yihong0618/gitblog/issues/102)--2020-01-19
 ## 最近更新
+- [学习生活上的计划](https://github.com/yihong0618/gitblog/issues/181)--2020-08-29
 - [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--2020-08-28
 - [眼见何事，情系何处，身在何方，心思何人](https://github.com/yihong0618/gitblog/issues/179)--2020-08-26
 - [程序员跑步指南](https://github.com/yihong0618/gitblog/issues/178)--2020-08-23
 - [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)--2020-08-20
-- [心情不是很好的。](https://github.com/yihong0618/gitblog/issues/176)--2020-08-19
 ## 2019
 - [2019最后一天，不是总结的总结](https://github.com/yihong0618/gitblog/issues/97)--2019-12-31
 - [2019年11月总结及12月计划](https://github.com/yihong0618/gitblog/issues/85)--2019-12-02
