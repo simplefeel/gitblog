@@ -37,7 +37,12 @@ def get_repo(user: Github, repo: str):
 
 def parseTODO(issue):
     body = issue.body.splitlines()
-    return [l for l in body if l.startswith("- [ ] ") or l.startswith("- [x] ")]
+    todo_undone = [l for l in body if l.startswith("- [ ] ")]
+    todo_done = [l for l in body if l.startswith("- [x] ")]
+    # just add info all done
+    if not todo_undone:
+        return f"[{issue.title}]({issue.html_url}) all done", []
+    return f"[{issue.title}]({issue.html_url})--{len(todo_undone)} jobs to do--{len(todo_done)} jobs done", todo_done + todo_undone
 
 
 def get_top_issues(repo):
@@ -67,8 +72,9 @@ def add_md_todo(repo, md, me):
         md.write("## TODO\n")
         for issue in todo_issues:
             if isMe(issue, me):
-                todo = parseTODO(issue)
-                for t in todo:
+                todo_title, todo_list = parseTODO(issue)
+                md.write("TODO list from " + todo_title + "\n")
+                for t in todo_list:
                     md.write(t + "\n")
 
 
@@ -134,10 +140,9 @@ def main(token, repo_name):
     me = get_me(user)
     repo = get_repo(user, repo_name)
     add_md_header("README.md")
-    add_md_todo(repo, "README.md", me)
-    add_md_top(repo, "README.md", me)
-    add_md_recent(repo, "README.md", me)
-    add_md_label(repo, "README.md", me)
+    # add to readme one by one
+    for func in [add_md_todo, add_md_top, add_md_recent, add_md_label]:
+        func(repo, "README.md", me)
 
 
 if __name__ == "__main__":
