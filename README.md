@@ -5,6 +5,7 @@ TODO list from [学习生活上的计划](https://github.com/yihong0618/gitblog/
 - [ ] 背标日初级下的单词
 - [ ] 月跑量突破250 km
 - [ ] 瘦到130斤
+
 TODO list from [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--6 jobs to do--3 jobs done
 - [x] 完善 gitblog 的 action 让用户更少更改
 - [x] 给 gitblog 这个增加todo list 功能(这个就是测试）
@@ -15,6 +16,7 @@ TODO list from [程序上新的计划](https://github.com/yihong0618/gitblog/iss
 - [ ] 继续给大连咖啡做贡献
 - [ ] 把 running page 变得更通用(自动生成的js可以用gpx生成)
 - [ ] 搞定 gcores 日历
+
 ## 置顶文章
 - [程序员跑步指南](https://github.com/yihong0618/gitblog/issues/178)--2020-08-23
 - [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)--2020-08-20
