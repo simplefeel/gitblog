@@ -1,6 +1,7 @@
 ## Gitblog
 My personal blog using issues and GitHub Action
 ## TODO
+TODO list from [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--6 jobs to do--3 jobs done
 - [x] 完善 gitblog 的 action 让用户更少更改
 - [x] 给 gitblog 这个增加todo list 功能(这个就是测试）
 - [x] 给 running page 增加排序
