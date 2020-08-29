@@ -76,6 +76,8 @@ def add_md_todo(repo, md, me):
                 md.write("TODO list from " + todo_title + "\n")
                 for t in todo_list:
                     md.write(t + "\n")
+                # new line
+                md.write("\n")
 
 
 def add_md_top(repo, md, me):
