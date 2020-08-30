@@ -7,7 +7,6 @@ MD_HEAD = """## Gitblog
 My personal blog using issues and GitHub Action
 """
 
-ME_GITHUB_NAME = "BruceChen7"
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = [
     "Top",
@@ -142,8 +141,8 @@ def main(token, repo_name):
     me = get_me(user)
     repo = get_repo(user, repo_name)
     add_md_header("README.md")
-    # add to readme one by one
-    for func in [add_md_todo, add_md_top, add_md_recent, add_md_label]:
+    # add to readme one by one, change order here
+    for func in [add_md_top, add_md_recent, add_md_label, add_md_todo]:
         func(repo, "README.md", me)
 
 
