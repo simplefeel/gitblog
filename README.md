@@ -220,11 +220,11 @@ TODO list from [学习生活上的计划](https://github.com/yihong0618/gitblog/
 - [ ] 月跑量突破250 km
 - [ ] 瘦到130斤
 
-TODO list from [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--6 jobs to do--3 jobs done
+TODO list from [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--5 jobs to do--4 jobs done
 - [x] 完善 gitblog 的 action 让用户更少更改
 - [x] 给 gitblog 这个增加todo list 功能(这个就是测试）
 - [x] 给 running page 增加排序
-- [ ] 完善 runtastic 增加一个参数
+- [x] 完善 runtastic 增加一个参数
 - [ ] 尝试搞定 vscode-leetcode 的cn第三方登陆
 - [ ] 研究自动截图发邮件功能（工作上）
 - [ ] 继续给大连咖啡做贡献
