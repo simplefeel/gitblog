@@ -25,13 +25,14 @@ My personal blog using issues and GitHub Action
 </details>
 
 ## 2020
+- [2020年八月总结九月月展望](https://github.com/yihong0618/gitblog/issues/182)--2020-08-31
 - [跑步网站做完了，昨天跑了20km, 下一个做什么呢？](https://github.com/yihong0618/gitblog/issues/175)--2020-08-17
 - [番茄工作法，焦虑，咖啡，喘不上气，生活](https://github.com/yihong0618/gitblog/issues/173)--2020-08-10
 - [2020年七月总结八月展望](https://github.com/yihong0618/gitblog/issues/171)--2020-08-01
 - [新的计划，新的开始，戒掉社交网络](https://github.com/yihong0618/gitblog/issues/160)--2020-05-29
-- [新的计划，新的开始，学日语](https://github.com/yihong0618/gitblog/issues/159)--2020-05-29
 <details><summary>显示更多</summary>
 
+- [新的计划，新的开始，学日语](https://github.com/yihong0618/gitblog/issues/159)--2020-05-29
 - [新的计划，新的开始，再一次减肥。](https://github.com/yihong0618/gitblog/issues/154)--2020-05-09
 - [下周一开始减肥，轮回](https://github.com/yihong0618/gitblog/issues/149)--2020-04-18
 - [一口气看完一本书的感觉好爽](https://github.com/yihong0618/gitblog/issues/146)--2020-04-04
@@ -192,9 +193,10 @@ My personal blog using issues and GitHub Action
 - [迷茫，又一次重新学日语](https://github.com/yihong0618/gitblog/issues/172)--2020-08-04
 - [心态发生了好多转变](https://github.com/yihong0618/gitblog/issues/170)--2020-07-22
 - [既然注定孤独，就孤独吧](https://github.com/yihong0618/gitblog/issues/169)--2020-07-11
-- [累](https://github.com/yihong0618/gitblog/issues/157)--2020-05-16
+- [振作起来，快乐生活](https://github.com/yihong0618/gitblog/issues/162)--2020-06-03
 <details><summary>显示更多</summary>
 
+- [累](https://github.com/yihong0618/gitblog/issues/157)--2020-05-16
 - [过日子](https://github.com/yihong0618/gitblog/issues/156)--2020-05-14
 - [31岁，加法与减法](https://github.com/yihong0618/gitblog/issues/134)--2020-03-15
 - [一下午刷了一遍《恶意》](https://github.com/yihong0618/gitblog/issues/129)--2020-03-08
@@ -205,6 +207,7 @@ My personal blog using issues and GitHub Action
 </details>
 
 ## 精进计划
+- [修炼内功，最近在刷《SICP》](https://github.com/yihong0618/gitblog/issues/163)--2020-06-04
 - [人和人之家的差距太大了](https://github.com/yihong0618/gitblog/issues/147)--2020-04-13
 - [我不服输](https://github.com/yihong0618/gitblog/issues/79)--2019-11-16
 - [一定要摆脱撞大运编程](https://github.com/yihong0618/gitblog/issues/78)--2019-11-15
