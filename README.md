@@ -6,11 +6,11 @@ My personal blog using issues and GitHub Action
 - [vscode-gcores开发笔记2](https://github.com/yihong0618/gitblog/issues/111)--2020-02-11
 - [vscode-gcores开发笔记1](https://github.com/yihong0618/gitblog/issues/102)--2020-01-19
 ## 最近更新
+- [2020年八月总结九月月展望](https://github.com/yihong0618/gitblog/issues/182)--2020-08-31
 - [学习生活上的计划](https://github.com/yihong0618/gitblog/issues/181)--2020-08-29
 - [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--2020-08-28
 - [眼见何事，情系何处，身在何方，心思何人](https://github.com/yihong0618/gitblog/issues/179)--2020-08-26
 - [程序员跑步指南](https://github.com/yihong0618/gitblog/issues/178)--2020-08-23
-- [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)--2020-08-20
 ## 2019
 - [2019最后一天，不是总结的总结](https://github.com/yihong0618/gitblog/issues/97)--2019-12-31
 - [2019年11月总结及12月计划](https://github.com/yihong0618/gitblog/issues/85)--2019-12-02
