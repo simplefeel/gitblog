@@ -6,11 +6,11 @@ My personal blog using issues and GitHub Action
 - [vscode-gcores开发笔记2](https://github.com/yihong0618/gitblog/issues/111)--2020-02-11
 - [vscode-gcores开发笔记1](https://github.com/yihong0618/gitblog/issues/102)--2020-01-19
 ## 最近更新
+- [普通人和天才之间的巨大鸿沟](https://github.com/yihong0618/gitblog/issues/185)--2020-09-08
 - [月跑 250 km计划](https://github.com/yihong0618/gitblog/issues/184)--2020-09-01
 - [2020年八月总结九月月展望](https://github.com/yihong0618/gitblog/issues/182)--2020-08-31
 - [学习生活上的计划](https://github.com/yihong0618/gitblog/issues/181)--2020-08-29
 - [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--2020-08-28
-- [眼见何事，情系何处，身在何方，心思何人](https://github.com/yihong0618/gitblog/issues/179)--2020-08-26
 ## 2019
 - [2019最后一天，不是总结的总结](https://github.com/yihong0618/gitblog/issues/97)--2019-12-31
 - [2019年11月总结及12月计划](https://github.com/yihong0618/gitblog/issues/85)--2019-12-02
@@ -195,13 +195,14 @@ My personal blog using issues and GitHub Action
 </details>
 
 ## 生活
+- [普通人和天才之间的巨大鸿沟](https://github.com/yihong0618/gitblog/issues/185)--2020-09-08
 - [眼见何事，情系何处，身在何方，心思何人](https://github.com/yihong0618/gitblog/issues/179)--2020-08-26
 - [迷茫，又一次重新学日语](https://github.com/yihong0618/gitblog/issues/172)--2020-08-04
 - [心态发生了好多转变](https://github.com/yihong0618/gitblog/issues/170)--2020-07-22
 - [既然注定孤独，就孤独吧](https://github.com/yihong0618/gitblog/issues/169)--2020-07-11
-- [振作起来，快乐生活](https://github.com/yihong0618/gitblog/issues/162)--2020-06-03
 <details><summary>显示更多</summary>
 
+- [振作起来，快乐生活](https://github.com/yihong0618/gitblog/issues/162)--2020-06-03
 - [累](https://github.com/yihong0618/gitblog/issues/157)--2020-05-16
 - [过日子](https://github.com/yihong0618/gitblog/issues/156)--2020-05-14
 - [减肥](https://github.com/yihong0618/gitblog/issues/143)--2020-03-28
